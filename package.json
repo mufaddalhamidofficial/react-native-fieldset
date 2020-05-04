@@ -1,6 +1,6 @@
 {
   "name": "react-native-fieldset",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A html equivalent to create react native fieldset",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/%40mufaddalhamidofficial/react-native-fieldset.git"
+    "url": "git+https://github.com/mufaddalhamidofficial/react-native-fieldset.git"
   },
   "keywords": [
     "react",
@@ -20,9 +20,9 @@
   "author": "Mufaddal Hamid (@mufaddalhamidofficial)",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/%40mufaddalhamidofficial/react-native-fieldset/issues"
+    "url": "https://github.com/mufaddalhamidofficial/react-native-fieldset/issues"
   },
-  "homepage": "https://github.com/%40mufaddalhamidofficial/react-native-fieldset#readme",
+  "homepage": "https://github.com/mufaddalhamidofficial/react-native-fieldset#readme",
   "dependencies": {
     "metro-react-native-babel-preset": "^0.59.0"
   }
