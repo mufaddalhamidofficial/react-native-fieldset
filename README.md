@@ -35,3 +35,9 @@ labelPosition | String(enum) `start`, `center`, `end` | `'start'`| position of l
 twoLabel| Boolean| false | Can add label both the side|No
 label2| String| `"Fieldset-label2"` | label of second string |No
 labelStyle2| Object| `{}` | style of second label  |No
+
+## Contact me:
+
+Email: [mufaddalhamidofficial@gmail.com](mailto:mufaddalhamidofficial@gmail.com)
+
+Website: [behlahinfotech.com](http://www.behlahinfotech.com)
