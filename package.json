@@ -1,6 +1,6 @@
 {
   "name": "react-native-fieldset",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A html equivalent to create react native fieldset",
   "main": "index.js",
   "scripts": {

@@ -7,7 +7,7 @@ npm install react-native-fieldset
 ## Usage: 
 ```javascript
 import React from 'react';
-import { FieldSet } from 'mhpackage';
+import FieldSet from 'react-native-fieldset';
 import { View, Text } from 'react-native';
 
 //...
